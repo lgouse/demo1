@@ -14,3 +14,4 @@ networking
 
 maintenance and monitoring 
 
+Elastic Compute Cloud, Elastic Beanstalk, Lambda are examples of computing services. 
