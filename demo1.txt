@@ -4,3 +4,13 @@ amazon web services
 google cloud platform
 
 
+azure
+
+commuting services 
+
+storage
+
+networking 
+
+maintenance and monitoring 
+
